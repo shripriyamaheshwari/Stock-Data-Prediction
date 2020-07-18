@@ -12,8 +12,11 @@ While Gated Recurrent Units (GRU) use lesser training paramaters (therefore, les
 5. Keras <br>
 6. Tensorflow <br>
 
+Environment- Python 3.7.3, Windows 10 <br>
+The code was developed on Google Colab.
+
 # Dataset
-National Stock Exchange India was referred to obtain company-wise data of 12 Fortune 500 India companies. <br>
+<a href="https://www1.nseindia.com/products/content/equities/equities/eq_security.htm">National Stock Exchange India </a> was referred to obtain company-wise data of 12 Fortune 500 India companies. <br>
 The companies used for training are-
 
 1. Bombay Dyeing and Manufacturing <br>
