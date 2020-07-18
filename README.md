@@ -45,13 +45,13 @@ The model was tested on 5 Fortune 500 India companies-
 4. Steel Authority of India Limited (SAIL)
 5. Spice Jet
 
+Mean Absolute Error (L1 error) has been used for quantitative evaluation of the results.
+
 <img src = "https://github.com/isha-git/Stock-Data-Prediction/blob/master/images/Raymond.PNG" width = 1000>
 <img src = "https://github.com/isha-git/Stock-Data-Prediction/blob/master/images/BharatElectronics.PNG" width = 1000>
 <img src = "https://github.com/isha-git/Stock-Data-Prediction/blob/master/images/IndianOilCorporation.PNG" width = 1000>
 <img src = "https://github.com/isha-git/Stock-Data-Prediction/blob/master/images/SAIL.PNG" width = 1000>
 <img src = "https://github.com/isha-git/Stock-Data-Prediction/blob/master/images/SpiceJet.PNG" width = 1000>
-
-Mean Absolute Error (L1 error) has been used for quantitative evaluation of the results.
 
 # Discussions
 It can be observed that the model gives moderately high error. This could be because of the different variations in the stock prices of the companies with respect to time. Accordngly, the model needs to be improved for better performance.
