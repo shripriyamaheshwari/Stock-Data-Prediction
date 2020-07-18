@@ -1,5 +1,3 @@
-# Stock-Data-Prediction
-
 # Problem Statement
 To predict various stock market parameters (Open Price, High Price, Low Price, Last Price, Close Price, Average Price) using the LSTM/GRU model and predict Day1-Day2-Day3 forecast of 5 more companies and evaluate its performance.
 
