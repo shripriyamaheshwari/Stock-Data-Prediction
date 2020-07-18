@@ -6,6 +6,14 @@ To predict various stock market parameters (Open Price, High Price, Low Price, L
 # LSTM vs GRU
 While Gated Recurrent Units (GRU) use lesser training paramaters (therefore, lesser memory), and are faster than Long Short-Term Memory Networks (LSTM), LSTM networks have a higher accuracy. As for this project, accuracy is more important than run-time, LSTM networks have been used for forecasting.
 
+# Libraries
+1. Numpy <br>
+2. Matplotlib <br>
+3. Pandas <br>
+4. Sklearn <br>
+5. Keras <br>
+6. Tensorflow <br>
+
 # Dataset
 National Stock Exchange India was referred to obtain company-wise data of 12 Fortune 500 India companies. <br>
 The companies used for training are-
