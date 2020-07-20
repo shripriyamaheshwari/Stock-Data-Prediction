@@ -57,4 +57,4 @@ Mean Absolute Error (L1 error) has been used for quantitative evaluation of the 
 <img src = "https://github.com/isha-git/Stock-Data-Prediction/blob/master/images/SpiceJet.PNG" width = 1000>
 
 # Discussions
-It can be observed that the model gives moderately high error. This could be because of the different variations in the stock prices of the companies with respect to time. AccordIngly, the model can be improved for better performance.
+It can be observed that the model gives moderately high error. This could be because of the different variations in the stock prices of the companies with respect to time. Accordingly, the model can be improved for better performance.
